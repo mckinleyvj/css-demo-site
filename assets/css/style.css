@@ -88,7 +88,7 @@ input,
 textarea {
   box-sizing: border-box;
   width: 300px;
-  border: 1px solid #4F4846;
+  border: 1px solid green;
 }
 
 textarea {
@@ -99,7 +99,7 @@ textarea {
 button {
   height: 40px;
   width: 120px;
-  background-color: #4F4846;
+  background-color: blue;
   color: #FDF8F5;
 }
  
